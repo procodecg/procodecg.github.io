@@ -22,3 +22,6 @@
 [submodule "cm2/inevhad"]
 	path = cm2/inevhad
 	url = https://github.com/inevhad/inevhad.github.io.git
+[submodule "cm2/mimichio"]
+	path = cm2/mimichio
+	url = https://github.com/mimichio/mimichio.github.io
