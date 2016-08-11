@@ -1,0 +1,24 @@
+[submodule "cm2/iburanger"]
+	path = cm2/iburanger
+	url = https://github.com/iburanger/iburanger.github.io.git
+[submodule "cm2/greytasarah"]
+	path = cm2/greytasarah
+	url = https://github.com/greytasarah/greytasarah.github.io.git
+[submodule "cm2/bonasari"]
+	path = cm2/bonasari
+	url = https://github.com/bonasari/bonasari.github.io.git
+[submodule "cm2/rinaqidiza"]
+	path = cm2/rinaqidiza
+	url = https://github.com/rinaqidiza/rinaqidiza.github.io.git
+[submodule "cm2/pdeassy"]
+	path = cm2/pdeassy
+	url = https://github.com/pdeassy/pdeassy.github.io.git
+[submodule "cm2/detaris2016"]
+	path = cm2/detaris2016
+	url = https://github.com/detaris2016/detaris2016.github.io.git
+[submodule "cm2/irmahariawang"]
+	path = cm2/irmahariawang
+	url = https://github.com/irmahariawang/irmahariawang.github.io.git
+[submodule "cm2/inevhad"]
+	path = cm2/inevhad
+	url = https://github.com/inevhad/inevhad.github.io.git

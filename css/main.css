@@ -1,0 +1,50 @@
+.card {
+  font-family: sans-serif;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  width: 300px;
+  color: #333;
+}
+.card a {
+  color: #cf3f02;
+  text-decoration: none;
+}
+.card .card-header {
+  padding: 24px 16px;
+}
+.card .card-header + .card-body {
+  margin-top: -24px;
+  padding-top: 0;
+}
+.card .card-suptitle {
+  color: #aaa;
+  font-size: 14px;
+  line-height: 20px;
+  margin: 0;
+  position: relative;
+  text-transform: uppercase;
+}
+.card .card-title {
+  font-size: 20px;
+  line-height: 28px;
+  margin: 0;
+}
+.card .card-title a, .card .card-title a:visited {
+  color: inherit;
+}
+.card .card-details {
+  border-top: 1px solid #ccc;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 16px 16px;
+  margin: 24px 0;
+}
+.card .card-details dt, .card .card-details dd {
+  float: left;
+}
+.card .card-details dt {
+  padding-right: 8px;
+}
+.card .card-details dd {
+  margin: 0;
+  padding-right: 16px;
